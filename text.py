@@ -1,6 +1,3 @@
-print 'first'
-print 'second'
-print 'third'
 print 'new branch'
 print 'master branch fix'
 print 'fix conflict'
